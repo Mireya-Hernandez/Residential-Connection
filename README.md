@@ -4,7 +4,7 @@ The Residential Connection project is one I developed for my Software Specificat
 
 # Demonstration
 Prototype 
-![Demo]()
+![Demo](https://github.com/Mireya-Hernandez/Residential-Connection/blob/master/uh8nqg9TAW.gif)
 
 # Author
 Mireya Hernandez Cruz
