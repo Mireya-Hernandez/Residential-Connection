@@ -5,8 +5,6 @@ The Residential Connection project is one I developed for my Software Specificat
 # Demonstration
 Prototype 
 
-# Documentation
-https://mireya-hernandez.github.io/MediaPlayerProduction2/ Note: Unable to get document folder functioning.
 
 # Author
 Mireya Hernandez Cruz
@@ -20,7 +18,7 @@ GNU General Public License
 * Office of Housing and Residence Life
 
 # Key Programming Concepts Utilized
-* eliciting requirements
+* Eliciting requirements
 * Analyzing Requirements
 * Business Requirement Specification
 * Software Requirement Document
