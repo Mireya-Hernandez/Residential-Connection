@@ -15,13 +15,13 @@ Mireya Hernandez Cruz
 GNU General Public License
 
 # Acknowledgments
-Professor Vanselow 
-YouTube Videos
-Office of Housing and Residence Life
+* Professor Vanselow 
+* YouTube Videos
+* Office of Housing and Residence Life
 
 # Key Programming Concepts Utilized
- *eliciting requirements
- *Analyzing Requirements
- *Business Requirement Specification
- *Software Requirement Document
- *Software Specification Requirement
+* eliciting requirements
+* Analyzing Requirements
+* Business Requirement Specification
+* Software Requirement Document
+* Software Specification Requirement
